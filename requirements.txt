@@ -1,0 +1,5 @@
+Whoosh
+pandas
+nltk
+matplotlib
+plotly
