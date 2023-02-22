@@ -26,3 +26,5 @@ nltk.download('vader_lexicon',download_dir=ntlk_path)
 sharcnet_path = ntlk_path + os.sep
 print("=> downloading complete and sharcnet path set...")
 ```
+
+The credentials will expire in the evening but this may be useful for other research environments.
