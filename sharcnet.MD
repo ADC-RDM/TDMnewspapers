@@ -4,7 +4,7 @@ You can run the notebook by loading the with the sharcnet credentials by loading
 This will give you almost everything but the following packages, which need to be installed as shown:
 
 ```
-# install nltk and whoosh libraries first
+# install nltk, plotly and whoosh libraries first
 !pip install --no-index nltk
 !pip install --no-index plotly
 !pip install --no-index whoosh
