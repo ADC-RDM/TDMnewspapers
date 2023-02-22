@@ -27,4 +27,5 @@ sharcnet_path = ntlk_path + os.sep
 print("=> downloading complete and sharcnet path set...")
 ```
 
-The credentials will expire in the evening but this may be useful for other research environments.
+The workshop credentials will expire at fixed times but this may be useful for other research environments
+where the file paths cannot use default locations.
